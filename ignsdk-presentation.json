@@ -1,0 +1,1243 @@
+{
+  "slides": [
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/iMttiRm.png",
+          "type": "Image",
+          "x": 118,
+          "y": 213,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 660,
+          "y": 689,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\"><a href=\"http://ignsdk.web.id\">http://ignsdk.web.id</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 0,
+      "selected": false,
+      "active": false,
+      "x": 180,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 61,
+          "y": 50,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 49,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">/usr/bin/whoami</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 136,
+          "y": 352,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 59,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\"><a href=\"http://github.com/anak10thn\">http://github.com/anak10thn</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 1,
+      "selected": false,
+      "active": false,
+      "x": 460,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 268,
+          "y": 181,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 110,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">IGNSDK ??</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/FNX6Yjh.png",
+          "type": "Image",
+          "x": 359,
+          "y": 358,
+          "scale": {
+            "x": 1.5142857142857142,
+            "y": 1.5142857142857142,
+            "width": 318,
+            "height": 263.48571428571427
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 2,
+      "selected": false,
+      "active": false,
+      "x": 740,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/1N0OWOI.png",
+          "type": "Image",
+          "x": 11,
+          "y": 32,
+          "scale": {
+            "x": 0.9249304911955515,
+            "y": 0.9249304911955515,
+            "width": 998,
+            "height": 688.1482854494903
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 3,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 1020,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 82,
+          "y": 47,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 54,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">It integrates IGNSDK Native API into<br>Javascript Object&nbsp;</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/YcRVjLU.png",
+          "type": "Image",
+          "x": 59,
+          "y": 241,
+          "scale": {
+            "x": 0.662847790507365,
+            "y": 0.662847790507365,
+            "width": 405,
+            "height": 426.2111292962357
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/cRTe1Em.png",
+          "type": "Image",
+          "x": 664,
+          "y": 272,
+          "scale": {
+            "x": 1.4337899543378996,
+            "y": 1.4337899543378996,
+            "width": 314,
+            "height": 358.4474885844749
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 509.1694915254237,
+          "y": 371.8305084745763,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 123,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">-&gt;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 4,
+      "selected": false,
+      "active": false,
+      "x": 1300,
+      "y": 180
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 71,
+          "y": 49,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">SOURCE CODE</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 93,
+          "y": 347,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\"><a href=\"https://github.com/anak10thn/ignsdk-qt\">https://github.com/anak10thn/ignsdk-qt</a></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 5,
+      "selected": false,
+      "active": false,
+      "x": 1622,
+      "y": 177
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 64,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 60,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\"><b>It Run On</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 292,
+          "y": 167,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 38,
+          "text": "<ul><li><span style=\"font-family: Ubuntu; line-height: normal;\">OSX</span><br></li><li><span style=\"font-family: Ubuntu; line-height: normal;\">MS Windows (madafaka)</span></li><li><span style=\"font-family: Ubuntu; line-height: normal;\">Linux Distribution :</span></li></ul><ol><li><font face=\"Ubuntu\">IGOS Nusantara</font></li><li><font face=\"Ubuntu\">Fedora 20, 21, 22 base</font></li><li><font face=\"Ubuntu\">Debian Base<br></font></li><li><font face=\"Ubuntu\">Ubuntu Base</font></li><li>Arch Linux</li><li>openSUSE</li><li>Slackware</li></ol>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 6,
+      "selected": false,
+      "active": false,
+      "x": 1860,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/xlctWOi.png",
+          "type": "Image",
+          "x": 250,
+          "y": 126,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 7,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 2140,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/y8YPn4t.png",
+          "type": "Image",
+          "x": 43,
+          "y": 41,
+          "scale": {
+            "x": 0.8834586466165414,
+            "y": 0.8834586466165414,
+            "width": 940,
+            "height": 682.9135338345865
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 8,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 2420,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/ZQV8aaD.png",
+          "type": "Image",
+          "x": 40,
+          "y": 61,
+          "scale": {
+            "x": 0.8561085972850678,
+            "y": 0.8561085972850678,
+            "width": 946,
+            "height": 642.9375565610859
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 9,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 1296,
+      "y": 716
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/L6taFxq.png",
+          "type": "Image",
+          "x": 303,
+          "y": 99,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 10,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 1664,
+      "y": 709
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 230,
+          "y": 215,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 56,
+          "text": "<ul><li><span style=\"font-family: Ubuntu; line-height: normal;\">IGNSDK APP CREATOR</span><br></li><li><span style=\"font-family: Ubuntu; line-height: normal;\">Live Preview</span></li><li><span style=\"font-family: Ubuntu; line-height: normal;\">API</span></li><li><span style=\"font-family: Ubuntu; line-height: normal;\">Debugging</span></li><li><span style=\"font-family: Ubuntu; line-height: normal;\">IGNSDK APP Builder</span></li></ul>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 11,
+      "selected": false,
+      "active": false,
+      "x": 3260,
+      "y": 460
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 252,
+          "y": 233,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu;\">IGNSDK APP</span></div><font color=\"#333333\" face=\"Ubuntu\"><div style=\"text-align: center;\">CREATOR</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 12,
+      "selected": false,
+      "active": false,
+      "x": 3540,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/8tX40zs.png",
+          "type": "Image",
+          "x": 227,
+          "y": 63,
+          "scale": {
+            "x": 1.3872549019607843,
+            "y": 1.3872549019607843,
+            "width": 566,
+            "height": 609.0049019607843
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 13,
+      "selected": false,
+      "active": false,
+      "x": 3820,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 118,
+          "y": 63,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 77,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\"><b>Run</b></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 166,
+          "y": 310,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 62,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">$ ignsdk -p &lt;application&gt;</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 14,
+      "selected": false,
+      "active": false,
+      "x": 4100,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 254,
+          "y": 276,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<div style=\"text-align: center;\"><font face=\"Ubuntu\">Live Preview</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 15,
+      "selected": false,
+      "active": false,
+      "x": 4380,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/dwRsFVD.gif",
+          "type": "Image",
+          "x": 65,
+          "y": 94,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "GIF",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 16,
+      "selected": false,
+      "active": false,
+      "x": 4660,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/7A0NZkk.png",
+          "type": "Image",
+          "x": 47,
+          "y": 209,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 549,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">OR</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 657,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#cd5151\">ignsdk -p &lt;app&gt; -d</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 17,
+      "selected": false,
+      "active": false,
+      "x": 4940,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 262,
+          "y": 266,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<div style=\"text-align: center;\"><font face=\"Ubuntu\">Debugging</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 18,
+      "selected": false,
+      "active": false,
+      "x": 5220,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/7A0NZkk.png",
+          "type": "Image",
+          "x": 47,
+          "y": 209,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 549,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">OR</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 657,
+          "y": 340,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#cd5151\">ignsdk -p &lt;app&gt; -d</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 19,
+      "selected": false,
+      "active": false,
+      "x": 4940,
+      "y": 740
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/qeSKiOo.png",
+          "type": "Image",
+          "x": 89,
+          "y": 253,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/GlPlIWZ.png",
+          "type": "Image",
+          "x": 539,
+          "y": 193,
+          "scale": {
+            "x": 0.6825153374233128,
+            "y": 0.6825153374233128,
+            "width": 444.99999999999994,
+            "height": 316.0046012269938
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/QkIGg2k.png",
+          "type": "Image",
+          "x": 395,
+          "y": 302,
+          "scale": {
+            "x": 0.50390625,
+            "y": 0.50390625,
+            "width": 129,
+            "height": 129
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 0
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 20,
+      "selected": false,
+      "active": false,
+      "x": 4083,
+      "y": 981
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 114,
+          "y": 283,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<div style=\"text-align: center;\"><font face=\"Ubuntu\">Remote Debugging</font></div>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 21,
+      "selected": false,
+      "active": false,
+      "x": 6060,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/fxOnwcd.png",
+          "type": "Image",
+          "x": 464,
+          "y": 131,
+          "scale": {
+            "x": 0.7766272189349113,
+            "y": 0.7766272189349113,
+            "width": 525,
+            "height": 508.6908284023669
+          },
+          "imageType": "PNG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 24,
+          "y": 341,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\" color=\"#cd5151\">ignsdk -p &lt;app&gt; -d -r 7070</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 22,
+      "selected": false,
+      "active": false,
+      "x": 6334,
+      "y": 1022
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 148,
+          "y": 261,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 143,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">IGNSDK API</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 1.56,
+      "index": 23,
+      "selected": false,
+      "active": false,
+      "x": 4810,
+      "y": 960
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 133,
+          "y": 310,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\"><font color=\"#cd5151\">ign.sys()</font>.serial({port:'/dev/ttyUSB0'})</font><br>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 144,
+          "y": 187,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\">Module</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/QkIGg2k.png",
+          "type": "Image",
+          "x": 140,
+          "y": 218,
+          "scale": {
+            "x": 0.50390625,
+            "y": 0.50390625,
+            "width": 129,
+            "height": 129
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -1.58
+        },
+        {
+          "TextBox": {},
+          "x": 319,
+          "y": 465,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\">Method</font>",
+          "selected": false
+        },
+        {
+          "src": "http://i.imgur.com/QkIGg2k.png",
+          "type": "Image",
+          "x": 314,
+          "y": 345,
+          "scale": {
+            "x": 0.50390625,
+            "y": 0.50390625,
+            "width": 129,
+            "height": 129
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": 1.58
+        },
+        {
+          "TextBox": {},
+          "x": 604,
+          "y": 188,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 36,
+          "text": "<font face=\"Ubuntu\">Properties</font>",
+          "selected": false,
+          "rotate": 0
+        },
+        {
+          "src": "http://i.imgur.com/QkIGg2k.png",
+          "type": "Image",
+          "x": 623,
+          "y": 212,
+          "scale": {
+            "x": 0.50390625,
+            "y": 0.50390625,
+            "width": 129,
+            "height": 129
+          },
+          "imageType": "PNG",
+          "selected": false,
+          "rotate": -1.57
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 24,
+      "selected": false,
+      "active": false,
+      "x": 5500,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 216,
+          "y": 219,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 67,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">file system -&gt; ign.fs()<br>system -&gt; ign.sys()<br>SQL -&gt; ign.sql()<br>network -&gt; ign.net()<br></font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 62,
+          "y": 40,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 76,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">Modules</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 25,
+      "selected": false,
+      "active": false,
+      "x": 5780,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/O39aZv5.png",
+          "type": "Image",
+          "x": 89,
+          "y": 14,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 26,
+      "selected": true,
+      "active": true,
+      "x": 5997,
+      "y": 704
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 252,
+          "y": 233,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 94,
+          "text": "<div style=\"text-align: center;\"><span style=\"font-family: Ubuntu;\">IGNSDK APP</span></div><font color=\"#333333\" face=\"Ubuntu\"><div style=\"text-align: center;\">BUILDER</div></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 27,
+      "selected": false,
+      "active": false,
+      "x": 4391,
+      "y": 969
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/q5R0Udk.png",
+          "type": "Image",
+          "x": 33,
+          "y": 27,
+          "scale": {
+            "x": 0.962037962037962,
+            "y": 0.962037962037962,
+            "width": 963,
+            "height": 707.0979020979021
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 28,
+      "selected": false,
+      "active": false,
+      "background": "bg-solid-light",
+      "x": 6620,
+      "y": 1020
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/LoXLAuE.png",
+          "type": "Image",
+          "x": 202,
+          "y": 229,
+          "scale": {
+            "x": 1.5552763819095476,
+            "y": 1.5552763819095476,
+            "width": 619,
+            "height": 160.1934673366834
+          },
+          "imageType": "PNG",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 29,
+      "selected": false,
+      "active": false,
+      "x": 6900,
+      "y": 1300
+    },
+    {
+      "components": [
+        {
+          "TextBox": {},
+          "x": 88,
+          "y": 48,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 66,
+          "text": "<font color=\"#cd5151\" face=\"Ubuntu\">HELP!!</font>",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 104,
+          "y": 284,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font face=\"Ubuntu\"><a href=\"http://ignsdk.web.id\">http://ignsdk.web.id</a><br><a href=\"http://doc.ignsdk.web.id\">http://doc.ignsdk.web.id</a><br><a href=\"http://github.com/anak10thn/ignsdk-qt\">http://github.com/anak10thn/ignsdk-qt</a><br></font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 30,
+      "selected": false,
+      "active": false,
+      "x": 7180,
+      "y": 1300
+    },
+    {
+      "components": [
+        {
+          "src": "http://i.imgur.com/oPBhLhM.jpg",
+          "type": "Image",
+          "x": 224,
+          "y": 229,
+          "scale": {
+            "x": 0.5537109375,
+            "y": 0.5537109375,
+            "width": 567,
+            "height": 425.25
+          },
+          "imageType": "JPG",
+          "selected": false
+        },
+        {
+          "TextBox": {},
+          "x": 265,
+          "y": 131,
+          "scale": {
+            "x": 1,
+            "y": 1
+          },
+          "type": "TextBox",
+          "size": 48,
+          "text": "<font color=\"#333333\" face=\"Ubuntu\">Terima Kasih KAKAK :)</font>",
+          "selected": false
+        }
+      ],
+      "z": 0,
+      "impScale": 3,
+      "rotateX": 0,
+      "rotateY": 0,
+      "rotateZ": 0,
+      "index": 31,
+      "selected": false,
+      "active": false,
+      "x": 7460,
+      "y": 1300
+    }
+  ],
+  "activeSlide": {
+    "components": [
+      {
+        "src": "http://i.imgur.com/O39aZv5.png",
+        "type": "Image",
+        "x": 89,
+        "y": 14,
+        "scale": {
+          "x": 1,
+          "y": 1
+        },
+        "imageType": "PNG",
+        "selected": false
+      }
+    ],
+    "z": 0,
+    "impScale": 3,
+    "rotateX": 0,
+    "rotateY": 0,
+    "rotateZ": 0,
+    "index": 26,
+    "selected": true,
+    "active": true,
+    "x": 5997,
+    "y": 704
+  },
+  "fileName": "ignsdk",
+  "deckVersion": "1.0",
+  "customBackgrounds": {
+    "bgs": []
+  }
+}
